@@ -6,7 +6,7 @@ using System.Text;
 
 namespace PIV_2
 {
-    [Table("Wykłady")]
+    [Table("Wyklady")]
     public class Zajecia
     {
         [Key]
